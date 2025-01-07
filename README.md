@@ -82,8 +82,8 @@ This repository is also a valuable resource for individuals preparing for data-r
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/your-username/Data_Analytics_and_ML_Revision_Guide.git  
-   cd Data_Analytics_and_ML_Revision_Guide  
+   git clone https://github.com/Rajat-Bisht-09/Data_Analytics_and_ML_Revision_Guide.git  
+   cd Nobody_To_Data_Analyst 
    ```  
 2. Navigate through folders to access topics of interest.  
 3. Follow along with the theoretical notes and practice applied questions.  
