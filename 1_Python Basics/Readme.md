@@ -16,7 +16,7 @@ Welcome to the Python Basics repository! This repository is designed for beginne
 1. Clone this repository:
 
 ```
-git clone https://github.com/yourusername/Python-Basics.git
+git clone https://github.com/Rajat-Bisht-09/Python-Basics.git
 ```
 
 2. Navigate to any folder to explore examples:
