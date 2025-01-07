@@ -82,7 +82,7 @@ This repository is also a valuable resource for individuals preparing for data-r
 
 1. **Clone the Repository:**  
    ```bash  
-   git clone https://github.com/Rajat-Bisht-09/Data_Analytics_and_ML_Revision_Guide.git  
+   git clone https://github.com/Rajat-Bisht-09/Nobody_To_Data_Analyst.git  
    cd Nobody_To_Data_Analyst 
    ```  
 2. Navigate through folders to access topics of interest.  
