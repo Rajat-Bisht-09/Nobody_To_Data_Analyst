@@ -21,7 +21,10 @@ This section explains how to use variables in Python and explores its fundamenta
    - A variable name cannot start with a digit.
    - Variable names are case-sensitive (myVar and myvar are different).
    - Avoid using Python keywords (e.g., if, else, for) as variable names.
-
+  
+   **Getting the type of a variable**<br>
+   
+   The **`type()`** function helps to find the type of a variable. The built in function returns the type of object passed to it.
 
 3. **Data Types**
    - **Numeric Types**: `int`, `float`, `complex`
