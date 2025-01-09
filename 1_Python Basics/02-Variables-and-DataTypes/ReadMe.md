@@ -5,16 +5,25 @@ This section explains how to use variables in Python and explores its fundamenta
 
 ## Topics Covered
 1. **Variables**
-   - Variables are containers for storing data values.
+   - Variables are containers for storing data values that can be referenced and manipulated during program execution.
    - Example:
      ```python
      age = 25
      name = "John"
      print(age, name)
      ```
-   - Python variables don’t need explicit declaration; the type is inferred.
+   - Python variables don’t need explicit declaration; the type is inferred. It means based on the value, the variable implicitly inferred its data type.<br>
+   
+   **Rules for naming a `Variable`**
 
-2. **Data Types**
+   To use variables effectively, we must follow Python’s naming rules:
+   - Variable names can only contain letters, digits and underscores (_).
+   - A variable name cannot start with a digit.
+   - Variable names are case-sensitive (myVar and myvar are different).
+   - Avoid using Python keywords (e.g., if, else, for) as variable names.
+
+
+3. **Data Types**
    - **Numeric Types**: `int`, `float`, `complex`
    - **Text Type**: `str`
    - **Sequence Types**: `list`, `tuple`, `range`
@@ -23,7 +32,7 @@ This section explains how to use variables in Python and explores its fundamenta
    - **Boolean Type**: `bool`
    - **None Type**: `NoneType`
 
-3. **Type Casting**
+4. **Type Casting**
    - Explicitly convert one data type to another.
    - Example:
      ```python
@@ -32,7 +41,7 @@ This section explains how to use variables in Python and explores its fundamenta
      print(x + y)  # 15.5
      ```
 
-4. **Dynamic Typing**
+5. **Dynamic Typing**
    - A variable can change its type during runtime:
      ```python
      x = 10  # x is an integer
