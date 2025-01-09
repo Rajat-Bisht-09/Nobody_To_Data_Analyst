@@ -25,7 +25,22 @@ This section explains how to use variables in Python and explores its fundamenta
    **Getting the type of a variable**<br>
    
    The **`type()`** function helps to find the type of a variable. The built in function returns the type of object passed to it.
+   ```
+   n = 42
+   f = 3.14
+   print(type(n))
+   print(type(f))
+   ```
 
+   **Scope of a Variable**<br>
+
+   The scope of a variable is the extent in the code upto which the variable can be accessed or worked with. The variables declared in one part of the program and accesed in other part.
+   There are two methods to declare the scope of a variable.
+   - Global Scope : It refers to the region outside any function or block. The variables declared here are accessible throughout the program.
+   - Local Scope : It refers to the region inside a function `def f()`. The variables defined are local to the respective function.
+
+   **`NOTE : `** Global variables can be accessed inside the functions using ***global*** keyword.
+   
 3. **Data Types**
    - **Numeric Types**: `int`, `float`, `complex`
    - **Text Type**: `str`
